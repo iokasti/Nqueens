@@ -1,2 +1,2 @@
 # Nqueens
-heuristic functions for nqueens problem.
+Heuristic functions for nqueens problem.
